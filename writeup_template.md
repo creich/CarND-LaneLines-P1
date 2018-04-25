@@ -15,7 +15,10 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/grayscale.jpg "Grayscale"
+[gray_canny]: ./test_images_output/gray_canny.png "Grayscale Canny"
+[hough_image_1]: ./test_images_output/hough_image_1.png "first hough image"
+[hough_image_2]: ./test_images_output/hough_image_2.png "second hough image"
+[processed_image]: ./test_images_output/processed_image.png "processed image"
 
 ---
 
@@ -42,7 +45,10 @@ My pipeline consisted of 4 steps.
 
 4. just render lines over starting image
 
-![alt text][image1]
+![alt text][gray_canny]
+![alt text][hough_image_1]
+![alt text][hough_image_2]
+![alt text][processed_image]
 
 
 ### 2. Identify potential shortcomings with your current pipeline
